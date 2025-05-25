@@ -23,7 +23,7 @@ The full project design document (PDF) includes:
 - Statecharts
 - Communication and Task Architecture Diagrams
 
-[View Documentation (PDF)]((https://github.com/fay-alnefaie/green-zone-monitoring.git))
+[View Documentation (PDF)](Green Zone Monitoring System.pdf)
 
 ## Tools & Techniques
 
